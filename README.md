@@ -17,7 +17,7 @@ This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpe
    form][self-organized-workshop-form] (if you have not already done so), so we can keep track of
    all workshops. We build the list of workshops on our websites from the data included in your
    `index.md` page. We can only do that if you [customize][customization] that page correctly *and*
-   let us know the workshop URL.
+   let us know the workshop URL. 
 
 If you run into problems,
 or have ideas about how to make this process simpler,
